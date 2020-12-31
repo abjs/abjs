@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, who love to code! 
 
-- 📚 I’m currently learning React, Javascript, Nodejs and Firebase ,MogoDB
+- 📚 I’m currently learning React, Javascript, Nodejs,Express and Firebase ,MogoDB
 - 📚 also Django
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
