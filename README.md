@@ -32,5 +32,5 @@
 <!-- <img align="left" alt="Tensorflow_logo.svg.png" width="26px" src="./logo/Tensorflow_logo.svg.png" /> -->
 <!-- <img align="left" alt="Jupyter" width="26px" src="./logo/Jupyter.png" /> -->
 <img align="left" alt="firebase" width="26px" src="./logo/firebase.png" />
-<img align="left" alt="GitHub" width="26px" src="./logo/github.png" />
+<img  alt="GitHub" width="26px" src="./logo/github.png" />
 <img align="left" alt="Git" width="26px" src="./logo/git.png" />
