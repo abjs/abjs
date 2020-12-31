@@ -6,8 +6,8 @@
 - 📚 also Django
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
-- ⚡ I love coding it's me kind of drug to me every time i learn new things i will never ever stop learning
-
+- ⚡ I love coding for me it's a kind of drug to me every time i learn new things help me to grow i will never ever stop learning
+It is the key to success
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./logo/visual-studio-code.png" />
