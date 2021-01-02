@@ -8,7 +8,7 @@
 - 👩‍💻 2021 Goals: Master React, Complete MERN Stack ,Django. Contribute to Open Source projects.
 - ⚡ I love coding it's me kind of drug to me every time i learn new things i will never ever stop learning
 
-- 👨‍🎓 I am Doing my B.TECH in Computer Since at  Kmea Engneering  College 🧑🏽‍💻
+- 👨‍🎓 I am Doing my B.TECH in Computer Science at  Kmea Engneering  College 🧑🏽‍💻
 
 ### Languages and Tools:
 
