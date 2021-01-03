@@ -42,9 +42,6 @@
 
 ---
 
-<br>
-<br>
-
 ### Contact
 
 <a href="mailto:itsmeabjs@gmail.com">  
