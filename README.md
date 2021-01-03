@@ -44,8 +44,6 @@
 
 # Contact
 
----
-
 <a href="mailto:itsmeabjs@gmail.com">
 <img align="left" alt="Gmail" width="50px" src="./logo/gmail.png" />
 </a>
