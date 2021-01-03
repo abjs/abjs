@@ -42,7 +42,7 @@
 
 ---
 
-### Contact
+# Contact
 
 <a href="mailto:itsmeabjs@gmail.com">  
 <img alt="Gmail" width="26px" src="./logo/gmail.png" />
