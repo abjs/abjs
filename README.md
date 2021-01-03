@@ -42,30 +42,26 @@
 
 ---
 
-# Contact
+<br>
+<br>
 
-<a href="mailto:itsmeabjs@gmail.com">
-<img align="left" alt="Gmail" width="50px" src="./logo/gmail.png" />
+### Contact
+
+<a href="mailto:itsmeabjs@gmail.com">  
+<img alt="Gmail" width="26px" src="./logo/gmail.png" />
 </a>
-
 <a href="https://www.facebook.com/itsmeabjs.me/" target="_blank" rel="noopener noreferrer">
-    <img align="left" alt="Facebook" width="50px" src="./logo/fb.png" />
+    <img  alt="Facebook" width="26px" src="./logo/fb.png" />
 </a>
 <a href="https://www.instagram.com/itsmeabjs/" target="_blank" rel="noopener noreferrer">
-    <img align="left" alt="Instagram" width="50px" src="./logo/instagram.png" />
+    <img  alt="Instagram" width="26px" src="./logo/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/itsmeabjs/" target="_blank" rel="noopener noreferrer">
-    <img align="left" alt="linkedin" width="50px" src="./logo/linkedin.png" />
+    <img  alt="linkedin" width="26px" src="./logo/linkedin.png" />
 </a>
 <a href="https://dev.to/abjs/" target="_blank" rel="noopener noreferrer">
-    <img align="left" alt="linkedin" width="50px" src="./logo/Dev.png" />
+    <img  alt="linkedin" width="26px" src="./logo/Dev.png" />
 </a>
 <a href="https://twitter.com/itsmeabjs/" target="_blank" rel="noopener noreferrer">
-    <img align="left" alt="Twitter" width="50px" src="./logo/twitter.png" />
+    <img alt="Twitter" width="26px" src="./logo/twitter.png" />
 </a>
-<br>
-<br>
-
----
-
-
