@@ -65,9 +65,8 @@
 <a href="https://twitter.com/itsmeabjs/" target="_blank" rel="noopener noreferrer">
     <img align="left" alt="Twitter" width="50px" src="./logo/twitter.png" />
 </a>
-
 <br>
-
+<br>
 
 ---
 
