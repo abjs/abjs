@@ -22,6 +22,7 @@
 <img align="left" alt="npm" width="26px" src="./logo/npm.png" />
 
 <img align="left" alt="React" width="26px" src="./logo/react.png" />
+<img align="left" alt="NextJS" width="40px" src="./logo/nextjs.png" />
 
 <img align="left" alt="Node.js" width="26px" src="./logo/nodejs.png" />
 
@@ -29,7 +30,7 @@
 <img align="left" alt="SQL" width="26px" src="./logo/sql.png" />
 <img align="left" alt="flask" width="26px" src="./logo/flask.png" />
 <img align="left" alt="mongodb.png" width="26px" src="./logo/mongodb.png" />
-<img align="left" alt="numpy" width="26px" src="./logo/numpy.png" />
+<!-- <img align="left" alt="numpy" width="26px" src="./logo/numpy.png" /> -->
 <!-- <img align="left" alt="python-pandas" width="26px" src="./logo/python-pandas.png" /> -->
 <!-- <img align="left" alt="Tensorflow_logo.svg.png" width="26px" src="./logo/Tensorflow_logo.svg.png" /> -->
 <!-- <img align="left" alt="Jupyter" width="26px" src="./logo/Jupyter.png" /> -->
