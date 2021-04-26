@@ -29,6 +29,7 @@
 <img align="left" alt="C" width="26px" src="./logo/c.png" />
 <img align="left" alt="SQL" width="26px" src="./logo/sql.png" />
 <img align="left" alt="flask" width="26px" src="./logo/flask.png" />
+<img align="left" alt="Django" width="26px" src="./logo/django-logo.png" />
 <img align="left" alt="mongodb.png" width="26px" src="./logo/mongodb.png" />
 <!-- <img align="left" alt="numpy" width="26px" src="./logo/numpy.png" /> -->
 <!-- <img align="left" alt="python-pandas" width="26px" src="./logo/python-pandas.png" /> -->
