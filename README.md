@@ -31,6 +31,8 @@
 <img align="left" alt="Django" width="26px" src="./logo/django-logo.png" />
 <img align="left" alt="SQL" width="26px" src="./logo/sql.png" />
 <img align="left" alt="mongodb.png" width="26px" src="./logo/mongodb.png" />
+
+
 <!-- <img align="left" alt="numpy" width="26px" src="./logo/numpy.png" /> -->
 <!-- <img align="left" alt="python-pandas" width="26px" src="./logo/python-pandas.png" /> -->
 <!-- <img align="left" alt="Tensorflow_logo.svg.png" width="26px" src="./logo/Tensorflow_logo.svg.png" /> -->
@@ -45,22 +47,23 @@
 ---
 
 # Contact
-
+<center >
 <a href="mailto:itsmeabjs@gmail.com">  
-<img alt="Gmail" width="26px" src="./logo/gmail.png" />
+<img alt="Gmail" width="40px" style="margin-right: 20px;" src="./logo/gmail.png" />
 </a>
 <a href="https://www.facebook.com/itsmeabjs.me/" target="_blank" rel="noopener noreferrer">
-    <img  alt="Facebook" width="26px" src="./logo/fb.png" />
+    <img  alt="Facebook" width="40px" style="margin-right: 20px;" src="./logo/fb.png" />
 </a>
 <a href="https://www.instagram.com/itsmeabjs/" target="_blank" rel="noopener noreferrer">
-    <img  alt="Instagram" width="26px" src="./logo/instagram.png" />
+    <img  alt="Instagram" width="40px" style="margin-right: 20px;" src="./logo/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/itsmeabjs/" target="_blank" rel="noopener noreferrer">
-    <img  alt="linkedin" width="26px" src="./logo/linkedin.png" />
+    <img  alt="linkedin" width="40px" style="margin-right: 20px;" src="./logo/linkedin.png" />
 </a>
 <a href="https://dev.to/abjs/" target="_blank" rel="noopener noreferrer">
-    <img  alt="linkedin" width="26px" src="./logo/Dev.png" />
+    <img  alt="linkedin" width="40px" style="margin-right: 20px;" src="./logo/Dev.png" />
 </a>
 <a href="https://twitter.com/itsmeabjs/" target="_blank" rel="noopener noreferrer">
-    <img alt="Twitter" width="26px" src="./logo/twitter.png" />
+    <img alt="Twitter" width="40px" style="margin-right: 20px;" src="./logo/twitter.png" />
 </a>
+</center>
