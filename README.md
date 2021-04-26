@@ -16,7 +16,7 @@
 <img align="left" alt="figma" width="26px" src="./logo/figma.svg" />
 <img align="left" alt="HTML5" width="26px" src="./logo/html.png"/>
 <img align="left" alt="CSS3" width="26px" src="./logo/css.png" />
-<img align="left" alt="bootstap" width="26px" src="logo/bootstrap.png" />
+<!-- <img align="left" alt="bootstap" width="26px" src="logo/bootstrap.png" /> -->
 <img align="left" alt="material" width="26px" src="./logo/material-u.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./logo/javascript.png" />
 <img align="left" alt="npm" width="26px" src="./logo/npm.png" />
