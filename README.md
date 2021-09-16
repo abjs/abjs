@@ -33,6 +33,11 @@
 <img align="left" alt="mongodb.png" width="26px" src="./logo/mongodb.png" />
 
 
+
+
+
+
+
 <!-- <img align="left" alt="numpy" width="26px" src="./logo/numpy.png" /> -->
 <!-- <img align="left" alt="python-pandas" width="26px" src="./logo/python-pandas.png" /> -->
 <!-- <img align="left" alt="Tensorflow_logo.svg.png" width="26px" src="./logo/Tensorflow_logo.svg.png" /> -->
@@ -67,3 +72,10 @@
     <img alt="Twitter" width="45px"   src="./logo/twitter.png" />
 </a>
 </div>
+
+
+
+
+<hr>
+
+<img src = "https://github-readme-stats.vercel.app/api?username=abjs&&show_icons=true&title_color=32CD32&icon_color=87CEFA&text_color=daf7dc&bg_color=000000">
