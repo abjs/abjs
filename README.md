@@ -9,6 +9,7 @@
 
 - 👨‍🎓 I am Doing my B.TECH in Computer Science at  Kmea Engneering  College 🧑🏽‍💻
 
+## [CV](https://bit.ly/35YTNjN)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./logo/visual-studio-code.png" />
